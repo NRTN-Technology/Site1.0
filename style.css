@@ -2,11 +2,9 @@
   font-family: 'Georgia', 'Times', serif;
 }
 
-a {
-  color: SeaGreen;
-  text-decoration: none;
+.wood {
+  position: absolutue;
+  bottom: 0;
 }
 
-img {
-  border-radius: 100%;
-}
+
